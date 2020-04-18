@@ -1,5 +1,4 @@
 # Keypirinha Plugin: ConEmu
-=======================
 This is a package that extends the fast keystroke launcher keypirinha (http://keypirinha.com/) with
 tasks defined in ConEmu configuration.
 
