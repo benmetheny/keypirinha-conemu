@@ -1,1 +1,2 @@
-# keypirinha-conemu
+# Keypirinha Plugin: ConEmu
+
