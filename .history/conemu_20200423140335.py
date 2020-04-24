@@ -29,9 +29,6 @@ class ConEmu(kp.Plugin):
 
     def on_catalog(self):
         self._read_config()
-        if self._conemu_path is None:
-            self.info("Path to ConEmu could not be located and must be added to the configuration manually.")
-            return
         if not os.path.isfile(os.path.join(self._conemu_path,self._xml_name)):
             return
 
